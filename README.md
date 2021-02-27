@@ -8,9 +8,10 @@ This is my README for Assignment 17
 * [Credits](#Credits)
 * [License](#License)
 
-Page is live: [Video](https://github.com/kevsaj/Workout-Tracker/blob/main/public/img/WT.gif)
+Page is live: [Link](https://gentle-earth-07565.herokuapp.com/?id=6039d718f690370015b90ac5)
 
-![Should Look like this lol](https://github.com/kevsaj/Workout-Tracker/blob/main/public/img/WT.gif)
+[Should Look like this lol](https://github.com/kevsaj/Workout-Tracker/blob/main/public/img/WT.gif)
+
 # Installation
 * Learn MongoDB, NoSQL, Mongoose.js, CRUD magic!
 * Get Motivated
